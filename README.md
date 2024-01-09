@@ -11,6 +11,7 @@ For full guide please see https://toxiui.com/ffxiv-ui-guide/
 - [How to import](#how-to-import)
    - [DelvUI](#delvui)
    - [DelvCD](#delvcd)
+   - [LMeter](#lmeter)
 
 ## Assets
 ToxiUI FFXIV UI profile requires custom assets not already included with DelvUI/DelvCD.
@@ -31,6 +32,7 @@ In this repository you can also find [import strings](https://github.com/Toxicom
 
 - [DelvUI Profile](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/DelvUI.txt)
 - [DelvCD Profile](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/DelvCD.txt)
+- [LMeter Profile](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/LMeter.txt)
 
 ## How to Import
 ### DelvUI
@@ -90,7 +92,26 @@ To open DelvCD settings, in the game chat type `/dcd`. If the command does not w
          - ToxiUI 16
          - Montserrat-Black 24
          - Montserrat-Black 20
-   8. In the **Elements** tab press the Import button
-   ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/821b51c7-ba9b-45d1-b108-6db7215eab2c)
+3. In the **Elements** tab press the Import button
+![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/821b51c7-ba9b-45d1-b108-6db7215eab2c)
 
+### LMeter
+
+To open LMeter settings, in the game chat type `/lm`. If the command does not work, ensure you have the plugin installed.
+
+⚠️ **IMPORTANT:** Make sure you have the LMeter by [joshua.software.dev](https://gitlab.com/joshua.software.dev/LMeter)
+
+1. Open LMeter settings
+2. Import fonts:
+   1. Go to **Fonts**
+   2. Click the copy icon to copy path ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/1b283a79-d6ba-491a-af57-4114feea6924)
+   3. Open that path in your file system
+   4. When the folder opens, extract the fonts you downloaded in that folder
+   5. Go back in to the game
+   6. Hit the Refresh button ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/abccd1a8-460c-4e40-8b9b-63e48945ca4c)
+   7. Select the font, it's size, and hit the Plus button ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/13149fef-32e6-4fc4-af10-5b0cecaa9cde)
+      - For ToxiUI profile you need these fonts:
+         - ToxiUI 12
+         - ToxiUI 14
+3. In the **Profiles** tab press the Import button
 
