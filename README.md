@@ -69,7 +69,7 @@ To open DelvUI settings, in the game chat type `/dui`. If the command does not w
       - **NOTE:** Currently there's a bug in DelvUI, so all of your assets must be directly in that specified place (by default it should be `C:\`)
 6. Import the profile:
    1. Go to **Import**
-   2. Paste your string in the text field
+   2. Paste the [DelvUI Profile string](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/DelvUI.txt) in the text field
    3. Press **Import**
    4. Select which modules you want and confirm
 
@@ -92,7 +92,8 @@ To open DelvCD settings, in the game chat type `/dcd`. If the command does not w
          - ToxiUI 16
          - Montserrat-Black 24
          - Montserrat-Black 20
-3. In the **Elements** tab press the Import button
+3. Copy the [DelvCD Profile string](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/DelvCD.txt)
+4. In the **Elements** tab press the Import button
 ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/821b51c7-ba9b-45d1-b108-6db7215eab2c)
 
 ### LMeter
@@ -113,5 +114,7 @@ To open LMeter settings, in the game chat type `/lm`. If the command does not wo
       - For ToxiUI profile you need these fonts:
          - ToxiUI 12
          - ToxiUI 14
-3. In the **Profiles** tab press the Import button
+3. Copy the [LMeter Profile string](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/LMeter.txt)
+4. In the **Profiles** tab press the Import button
 
+![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/72ae2fa6-6134-4095-832b-8735ef7b7b48)
