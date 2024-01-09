@@ -1,2 +1,96 @@
-# ffxiv-ui
-Assets &amp; Import strings for ToxiUI's FFXIV UI
+[![ToxiUI](https://i.imgur.com/S5a4FCi.png)](https://toxiui.com)
+# ToxiUI FFXIV UI
+
+For full guide please see https://toxiui.com/ffxiv-ui-guide/
+
+## Table of Contents
+- [Assets](#assets)
+   - [Fonts](#fonts)
+   - [Textures](#textures)
+- [Import strings](#import-strings)
+- [How to import](#how-to-import)
+   - [DelvUI](#delvui)
+   - [DelvCD](#delvcd)
+
+## Assets
+ToxiUI FFXIV UI profile requires custom assets not already included with DelvUI/DelvCD.
+
+### Fonts
+- The ToxiUI font can be downloaded from [this repository](https://github.com/Toxicom/ffxiv-ui/blob/main/assets/fonts/ToxiUI.ttf)
+![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/6c2de83b-a6c0-4821-9a47-70f70e6b1861)
+- The Monsterrat (Black/900) font can be downloaded from multiple sources:
+   - [Google Fonts](https://fonts.google.com/specimen/Montserrat) (recommended)
+   - Or from [this repository](https://github.com/Toxicom/ffxiv-ui/blob/main/assets/fonts/Montserrat-Black.ttf)
+
+### Textures
+- The ToxiUI texture can be downloaded from [this repository](https://github.com/Toxicom/ffxiv-ui/blob/main/assets/textures/ToxiUI.png)
+![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/3c2f3b17-f166-4dd1-8c06-6da3f4b29c50)
+
+## Import strings
+In this repository you can also find [import strings](https://github.com/Toxicom/ffxiv-ui/tree/main/import-strings)
+
+- [DelvUI Profile](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/DelvUI.txt)
+- [DelvCD Profile](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/DelvCD.txt)
+
+## How to Import
+### DelvUI
+
+To open DelvUI settings, in the game chat type `/dui`. If the command does not work, ensure you have the plugin installed.
+
+1. Open DelvUI settings
+2. Create a new profile:
+   1. Go to **Profiles**
+   2. Enter a **Profile Name**
+   3. Press **Copy**
+3. Import fonts:
+   1. Go to **Customization**
+   2. Select the **Fonts** tab
+   3. Click the Folder icon ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/c76833e4-04f7-4de3-9585-4a8b3808d687)
+   4. When the folder opens, extract the fonts you downloaded in that folder
+      - **NOTE:** Currently there's a bug in DelvUI, so all of your assets must be directly in that specified place (by default it should be `C:\`)
+   5. Go back in to the game
+   6. Hit the Refresh button ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/abccd1a8-460c-4e40-8b9b-63e48945ca4c)
+   7. Select the font, it's size, and hit the Plus button ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/13149fef-32e6-4fc4-af10-5b0cecaa9cde)
+      - For ToxiUI profile you need these fonts:
+         - Montserrat-Black 20
+         - Montserrat-Black 24
+         - ToxiUI 10
+         - ToxiUI 12
+         - ToxiUI 14
+         - ToxiUI 16
+![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/deb2eb15-b07a-4de6-a0b6-3c63fb39a505)
+4. Import the textures:
+   1. Go to **Customization**
+   2. Select the **Bar Textures** tab
+   3. Click the Folder icon ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/c76833e4-04f7-4de3-9585-4a8b3808d687)
+   4. When the folder opens, extract the textures you downloaded in that folder
+      - **NOTE:** Currently there's a bug in DelvUI, so all of your assets must be directly in that specified place (by default it should be `C:\`)
+6. Import the profile:
+   1. Go to **Import**
+   2. Paste your string in the text field
+   3. Press **Import**
+   4. Select which modules you want and confirm
+
+### DelvCD
+
+To open DelvCD settings, in the game chat type `/dcd`. If the command does not work, ensure you have the plugin installed.
+
+1. Open DelvCD settings
+2. Import fonts:
+   1. Go to **Fonts**
+   2. Click the copy icon to copy path ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/1b283a79-d6ba-491a-af57-4114feea6924)
+   3. Open that path in your file system
+   4. When the folder opens, extract the fonts you downloaded in that folder
+   5. Go back in to the game
+   6. Hit the Refresh button ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/abccd1a8-460c-4e40-8b9b-63e48945ca4c)
+   7. Select the font, it's size, and hit the Plus button ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/13149fef-32e6-4fc4-af10-5b0cecaa9cde)
+      - For ToxiUI profile you need these fonts:
+         - ToxiUI 12
+         - ToxiUI 14
+         - ToxiUI 16
+         - Montserrat-Black 24
+         - Montserrat-Black 20
+   8. In the **Elements** tab press the Import button
+   ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/821b51c7-ba9b-45d1-b108-6db7215eab2c)
+
+
