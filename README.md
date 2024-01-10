@@ -98,6 +98,9 @@ To open DelvCD settings, in the game chat type `/dcd`. If the command does not w
 
 ### LMeter
 
+![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/f9721b0b-d533-4ffd-b304-210c154c4bde)
+
+
 To open LMeter settings, in the game chat type `/lm`. If the command does not work, ensure you have the plugin installed.
 
 ⚠️ **IMPORTANT:** Make sure you have the LMeter by [joshua.software.dev](https://gitlab.com/joshua.software.dev/LMeter)
