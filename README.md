@@ -8,6 +8,12 @@ For full guide please see https://toxiui.com/ffxiv-ui-guide/
    - [Fonts](#fonts)
    - [Textures](#textures)
 - [Import strings](#import-strings)
+- [DelvCD Profile Status](#delvcd-profile-status)
+   - [Tank](#tank)
+   - [Melee DPS](#melee-dps)
+   - [Physical Ranged DPS](#physical-ranged-dps)
+   - [Magical Ranged DPS](#magical-ranged-dps)
+   - [Healer](#healer)
 - [How to import](#how-to-import)
    - [DelvUI](#delvui)
    - [DelvCD](#delvcd)
@@ -33,6 +39,53 @@ In this repository you can also find [import strings](https://github.com/Toxicom
 - [DelvUI Profile](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/DelvUI.txt)
 - [DelvCD Profile](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/DelvCD.txt)
 - [LMeter Profile](https://github.com/Toxicom/ffxiv-ui/blob/main/import-strings/LMeter.txt)
+
+## DelvCD Profile Status
+* ✅ - Ready for gameplay testing
+* 🟠 - WIP
+* ❌ - Haven't started
+
+### Tank
+| Status | Job | Notes |
+| --- | --- | --- |
+| ✅ | DRK | N/A |
+| ✅ | PLD | N/A |
+| 🟠 | WAR | Not max level, not entirely sure what's important |
+| 🟠 | GNB | Not max level, not entirely sure what's important |
+
+### Melee DPS
+| Status | Job | Notes |
+| --- | --- | --- |
+| ❌ | MNK | The most confusing job ever, no idea |
+| ❌ | DRG | Only Lv 80, so auras will be up to that threshold |
+| ❌ | NIN | N/A |
+| ✅ | SAM | N/A |
+| ❌ | RPR | The way I envision it might be difficult to achieve due to missing DelvCD features |
+
+### Physical Ranged DPS
+| Status | Job | Notes |
+| --- | --- | --- |
+| 🟠 | BRD | Can't finish due to missing DelvCD features |
+| ❌ | MCH | The job I'll level last, probably |
+| ❌ | DNC | See MCH |
+
+### Magical Ranged DPS
+| Status | Job | Notes |
+| --- | --- | --- |
+| ✅ | BLM | N/A |
+| ❌ | SMN | Need to finish leveling |
+| ✅ | RDM | N/A |
+| ❌ | BLU | lol |
+
+### Healer
+I despise healing, so these will be the last ones and even then not sure if I'll make them. Let's call Healer profiles community-dependant 😳
+
+| Status | Job | Notes |
+| --- | --- | --- |
+| ❌ | WHM | N/A |
+| ❌ | SCH | N/A |
+| ❌ | AST | N/A |
+| ❌ | SGE | N/A |
 
 ## How to Import
 ### DelvUI
