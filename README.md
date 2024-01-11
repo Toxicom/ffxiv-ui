@@ -57,7 +57,7 @@ In this repository you can also find [import strings](https://github.com/Toxicom
 | Status | Job | Notes |
 | --- | --- | --- |
 | ❌ | MNK | The most confusing job ever, no idea |
-| ❌ | DRG | Only Lv 80, so auras will be up to that threshold |
+| ✅ | DRG | Only Lv 80, so auras will be up to that threshold |
 | ❌ | NIN | N/A |
 | ✅ | SAM | N/A |
 | ❌ | RPR | The way I envision it might be difficult to achieve due to missing DelvCD features |
