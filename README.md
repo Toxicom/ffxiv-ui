@@ -73,7 +73,7 @@ In this repository you can also find [import strings](https://github.com/Toxicom
 | Status | Job | Notes |
 | --- | --- | --- |
 | ✅ | BLM | N/A |
-| ❌ | SMN | Need to finish leveling |
+| ✅ | SMN | Not max level yet |
 | ✅ | RDM | N/A |
 | ❌ | BLU | lol |
 
