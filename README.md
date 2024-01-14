@@ -140,7 +140,6 @@ To open DelvCD settings, in the game chat type `/dcd`. If the command does not w
    6. Hit the Refresh button ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/abccd1a8-460c-4e40-8b9b-63e48945ca4c)
    7. Select the font, it's size, and hit the Plus button ![image](https://github.com/Toxicom/ffxiv-ui/assets/69549795/13149fef-32e6-4fc4-af10-5b0cecaa9cde)
       - For ToxiUI profile you need these fonts:
-         - ToxiUI 10
          - ToxiUI 12
          - ToxiUI 14
          - ToxiUI 16
