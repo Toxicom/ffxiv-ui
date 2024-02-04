@@ -85,7 +85,7 @@ I despise healing, so these will be the last ones and even then not sure if I'll
 | ❌ | WHM | N/A |
 | ❌ | SCH | N/A |
 | ❌ | AST | N/A |
-| ❌ | SGE | N/A |
+| 🟠 | SGE | Handled by FrontierPsychiatrist |
 
 ## How to Import
 ### DelvUI
