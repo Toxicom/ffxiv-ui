@@ -82,9 +82,9 @@ I despise healing, so these will be the last ones and even then not sure if I'll
 
 | Status | Job | Notes |
 | --- | --- | --- |
-| ❌ | WHM | N/A |
+| 🟠 | WHM | Handled by FrontierPsychiatrist |
 | ❌ | SCH | N/A |
-| ❌ | AST | N/A |
+| 🟠 | AST | Handled by FrontierPsychiatrist |
 | 🟠 | SGE | Handled by FrontierPsychiatrist |
 
 ## How to Import
