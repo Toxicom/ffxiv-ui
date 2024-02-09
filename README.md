@@ -83,7 +83,7 @@ I despise healing, so these will be the last ones and even then not sure if I'll
 | Status | Job | Notes |
 | --- | --- | --- |
 | 🟠 | WHM | Handled by FrontierPsychiatrist |
-| ❌ | SCH | N/A |
+| 🟠 | SCH | Handled by FrontierPsychiatrist |
 | 🟠 | AST | Handled by FrontierPsychiatrist |
 | 🟠 | SGE | Handled by FrontierPsychiatrist |
 
