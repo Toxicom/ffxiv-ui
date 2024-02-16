@@ -66,7 +66,7 @@ In this repository you can also find [import strings](https://github.com/Toxicom
 | Status | Job | Notes |
 | --- | --- | --- |
 | 🟠 | BRD | Can't finish due to missing DelvCD features |
-| ❌ | MCH | The job I'll level last, probably |
+| 🟠 | MCH | Will complete as I level |
 | ❌ | DNC | See MCH |
 
 ### Magical Ranged DPS
